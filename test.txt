@@ -1,0 +1,7 @@
+git跟SVN的区别:git分布式控制
+git 分区:工作区,暂存区,版本库
+git上传流程:
+git add 文件   :发送文件至暂存区
+git commit -m "上传"  :发送文件至版本库
+git push origin master   : 上传远程库
+
